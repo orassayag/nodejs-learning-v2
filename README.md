@@ -1,4 +1,4 @@
-# Server
+# Node.js Learning V2
 
 Built in November 2018. Second workflow of the 'Node.js: The Complete Guide to Build RESTful APIs (2018)' course by Mosh Hamedani.
 
