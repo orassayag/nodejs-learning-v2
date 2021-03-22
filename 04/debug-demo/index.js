@@ -1,4 +1,3 @@
-
 module.exports = function checkFacebook(callback) {
     var nightmare = Nightmare();
     Promise.resolve(nightmare
