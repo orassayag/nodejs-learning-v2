@@ -1,7 +1,12 @@
 {
   "name": "firstapp",
   "version": "1.0.0",
+  "private": false,
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/nodejs-learning-v2.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
