@@ -7,15 +7,15 @@ Built in November 2018. Second workflow of the 'Node.js: The Complete Guide to B
 Clone the application to your computer.
 Steps to view the solution:
 1. Open server application on IDE (I use VSCode).
-2. In the terminal: npm i
-3. In the terminal: npm start
+2. In the terminal run: 'npm i'.
+3. In the terminal run: 'npm start'.
 
 READ THE FOLLOWING SETTINGS BEFORE YOU BEGIN:
 
 -Instructions & How to use:
-In the terminal: npm start
+In the terminal run: 'npm start'.
 
-Happy testing! :)
+Happy testing! :).
 
 ### Prerequisites
 
@@ -23,7 +23,8 @@ You'll need to install VSCode, Node, and clone the application, and in the termi
 
 ## Built With
 
-* [Node.JS](https://nodejs.org/en/) - The web framework used - Server side.
+* [Node.js](https://nodejs.org/en) - The web framework used - Server side.
+* [Git](https://git-scm.com) - Source management.
 
 ## Contributing
 
@@ -43,4 +44,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has an UNLICENSED License.
+This application has an UNLICENSED license.
